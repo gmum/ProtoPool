@@ -1,5 +1,9 @@
 # ProtoPool: Interpretable Image  Classification with Differentiable Prototypes Assignment
 
+### Code to a paper published at ECCV 2022 by D. Rymarczyk, Ł. Struski, M. Górszczak, K. Lewandowska, J. Tabor, B. Zieliński 
+
+The code is based on the other repositories: https://github.com/cfchen-duke/ProtoPNet, https://github.com/M-Nauta/ProtoTree and https://github.com/gmum/ProtoPShare
+
 
 To reproduce results of the paper you need to prepere an environment that meets the requirements from environment.yaml, than prepare data for training, download the pretrained on iNaturalist ResNet50 and run the model. 
 
