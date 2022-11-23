@@ -34,3 +34,15 @@ Use Python 3.9 with packages in environment.yaml. You can use a following comman
 3. To reproduce results without orthogonalization loss run without -pp_ortho option
 
 The prototype projection process is in the main.py process. So to reproduce those results, you need to check the logs. 
+
+## Citation
+```
+@inproceedings{rymarczyk2022interpretable,
+  title={Interpretable image classification with differentiable prototypes assignment},
+  author={Rymarczyk, Dawid and Struski, {\L}ukasz and G{\'o}rszczak, Micha{\l} and Lewandowska, Koryna and Tabor, Jacek and Zieli{\'n}ski, Bartosz},
+  booktitle={European Conference on Computer Vision},
+  pages={351--368},
+  year={2022},
+  organization={Springer}
+}
+```
